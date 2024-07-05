@@ -12,7 +12,7 @@ header {
 }
 
 nav {
-    display: flex;
+    display:flex;
     justify-content: space-between;
     align-items: center;
     max-width: 1200px;
@@ -45,7 +45,7 @@ nav {
 
 footer {
     background-color: #ff0909;
-    color: white;
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 10px 0;
     position: fixed;
